@@ -1,0 +1,7 @@
+project:
+  title: "quarto1"
+  type: website
+  output-dir: docs
+
+editor: visual
+
